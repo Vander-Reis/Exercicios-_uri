@@ -12,7 +12,7 @@ public class Main1044 {
 		A = input.nextInt();
 		B = input.nextInt();
 		
-		// operações 
+		// operaÃ§Ãµes 
 		
 		if ((A % B == 0) || (B % A == 0)) {
 			// saidas
