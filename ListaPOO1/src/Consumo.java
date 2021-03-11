@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main1014 {
 	public static void main(String[] args) {
-		int x; // o x ser· a variavel do km
+		int x; // o x ser√° a variavel do km
 		double y; // y representa o combustivel gasto
 		double total;
 		
