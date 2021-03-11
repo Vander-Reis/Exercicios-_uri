@@ -15,7 +15,7 @@ public class Main1045 {
 		B = input.nextDouble();
 		C = input.nextDouble();
 		
-		// operações é saidas
+		// operaÃ§Ãµes Ã© saidas
 		
 		
 		if (B > A && B > C) {
