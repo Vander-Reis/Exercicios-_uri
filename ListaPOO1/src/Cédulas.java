@@ -15,7 +15,7 @@ public class Main1018 {
 		n = valor; // aqui eu criei um n para armazenar o valor;
 		
 		n100 = n / 100;
-		n %= 100; // n pega o restante da divisão;
+		n %= 100; // n pega o restante da divisÃ£o;
 		n50 = n / 50;
 		n %= 50;	
 		n20 = n / 20;
@@ -40,7 +40,7 @@ public class Main1018 {
 		}
 		
 		else {
-			System.out.println("Você inseriu um número < 0 ou > 1000000!");
+			System.out.println("VocÃª inseriu um nÃºmero < 0 ou > 1000000!");
 		}
 	}
 
