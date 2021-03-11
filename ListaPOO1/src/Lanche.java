@@ -8,7 +8,9 @@ public class Main1025 {
 		
 		Scanner input = new Scanner(System.in);
 		
-		System.out.println("Codigo  |  EspecificaÁ„o   | PreÁo");
+		// se for passar no uri n√£o use o menu que eu criei abaixo, s√≥ apagar ele que da certo!!!!
+		
+		System.out.println("Codigo  |  Especifica√ß√£o   | Pre√ßo");
 		System.out.println("1       |  Cachorro quente | R$ 4.00");
 		System.out.println("2       |  X-Salada        | R$ 4.50");
 		System.out.println("3       |  X-Bacon         | R$ 5.00");
@@ -45,7 +47,7 @@ public class Main1025 {
 			break;
 			
 			default:
-				System.out.println("OpÁ„o invalida");
+				System.out.println("Op√ß√£o invalida");
 		}
 	}	
 }
