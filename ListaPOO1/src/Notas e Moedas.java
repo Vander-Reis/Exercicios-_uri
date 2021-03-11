@@ -65,7 +65,7 @@ public class Main1021 {
 		}
 		
 		else {
-			System.out.println("Número inválido!!!!");
+			System.out.println("NÃºmero invÃ¡lido!!!!");
 		}
       
 	}
