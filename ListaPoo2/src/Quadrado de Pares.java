@@ -13,7 +13,7 @@ public class Main1073 {
 		for(int i = 1; i <= valor; i++){
 			if(i % 2 == 0) {
 				quadrado  = i * i;
-				System.out.println(i + " ^ " + i + " = " + quadrado);
+				System.out.println(i + "^2" + " = " + quadrado);
 			}
 			
 		}
