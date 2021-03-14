@@ -8,13 +8,13 @@ public class Main1116 {
 		int vezes;
 		
 		
-		//inicialização
+		//inicializaÃ§Ã£o
 		
 		Scanner input = new Scanner(System.in);
 		
 		vezes = input.nextInt();
 		
-		// operações
+		// operaÃ§Ãµes
 		
 		for(int i = 1; i <= vezes; i++ ) {
 			x = input.nextDouble();
