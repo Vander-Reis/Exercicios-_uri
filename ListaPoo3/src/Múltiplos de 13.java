@@ -7,14 +7,14 @@ public class Main1132 {
 		int x, y;
 		int soma = 0;
 		
-		// inicialização 
+		// inicializaÃ§Ã£o 
 		
 		Scanner input = new Scanner(System.in);
 		
 		x = input.nextInt();
 		y = input.nextInt();
 		
-		// operações 
+		// operaÃ§Ãµes 
 		
 		if (x > y) {
 			for(int i = y; i <= x; i++) {
